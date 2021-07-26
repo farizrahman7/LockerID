@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42456889901",
+    "firebase_url": "https://lokerid-ada0a-default-rtdb.firebaseio.com",
+    "project_id": "lokerid-ada0a",
+    "storage_bucket": "lokerid-ada0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42456889901:android:d5cc996921f68801b656a4",
+        "android_client_info": {
+          "package_name": "com.example.lokerid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42456889901-1u1p8b0cjvape7nkuf9nf9i63i6t0rgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lokerid",
+            "certificate_hash": "eebcf3ef3013f4a852376386580bcea9e4abb0d2"
+          }
+        },
+        {
+          "client_id": "42456889901-ubb07k0cu32drl860qb11s3l00o45cql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGWBIlmWVMpNSouzZBNAEVrCEg50_jDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42456889901-ubb07k0cu32drl860qb11s3l00o45cql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
